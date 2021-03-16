@@ -2,5 +2,5 @@
 <item>
     <version>1.0.0.5</version>
     <url>https://raw.githubusercontent.com/xingyze/CalculateToolUpdate/main/downloads/update.zip</url>
-    <changelog>https://github.com/xingyze/CalculateToolUpdate/blob/main/configure/AutoUpdaterLoger.html</changelog>
+    <changelog>https://raw.githubusercontent.com/xingyze/CalculateToolUpdate/main/configure/AutoUpdaterLoger.html</changelog>
 </item>
