@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <item>
     <version>1.0.0.5</version>
-    <url>https://github.com/xingyze/CalculateToolUpdate/blob/main/downloads/update.zip</url>
+    <url>https://raw.githubusercontent.com/xingyze/CalculateToolUpdate/main/downloads/update.zip</url>
     <changelog>https://github.com/xingyze/CalculateToolUpdate/blob/main/configure/AutoUpdaterLoger.html</changelog>
 </item>
